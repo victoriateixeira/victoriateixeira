@@ -17,7 +17,7 @@
 
 ### Hi 👋 I'm Victoria Teixeira and I'm studying to be a **Full Stack Developer**🚀
 
-- 🌱 I’m currently learning web development and to complete a career change into the tech world!
+- 🌱 I’m currently learning web development to complete a career change into the tech world!
 - 🤔 I’m always looking to learn more and explore new possibilities to make my coding better and cleaner
 - 💬 I love to read and I'm always up for a good yarn - about anything!
 - 📫 How to reach me: victoriaftx@gmail.com
