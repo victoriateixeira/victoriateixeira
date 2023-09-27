@@ -15,7 +15,7 @@
 <br />
 
 
-### Hi 👋 I'm Victoria Teixeira and I'm studying to be a **Full Stack Developer**🚀
+### Hi 👋 I'm Victoria Teixeira and I'm a junior **Full Stack Developer**🚀
 
 - 🌱 I’m currently learning web development to complete a career change into the tech world!
 - 🤔 I’m always looking to learn more and explore new possibilities to make my coding better and cleaner
