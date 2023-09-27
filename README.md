@@ -30,7 +30,6 @@
 
 <br> 
 <div id="tools"> 
-  <img src="https://img.shields.io/badge/-Linux-1C1C1C?logo=Linux&logoColor=FCC624" alt="Linux" height="25px">
   <img src="https://img.shields.io/badge/-Git-1C1C1C?logo=git&logoColor=F05032" alt="git" height="25px">
   <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837" alt="npm" height="25px">
   <img src="https://img.shields.io/badge/-Docker-1C1C1C?logo=docker&logoColor=2496ED" alt="docker" height="25px">
