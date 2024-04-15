@@ -17,11 +17,11 @@
 
 ### Hi 👋 I'm Victoria Teixeira and I'm a junior **Full Stack Developer**🚀
 
-- 🌱 I’ve recently completed a bootcamp style course in web development to make a career change into the tech world!
+- 🌱 I work as a software developer at Sitemate
 - 🤔 I’m always looking to learn more and explore new possibilities to make my coding better and cleaner
 - 💬 I love to read and I'm always up for a good yarn - about anything!
 - 📫 How to reach me: victoriaftx@gmail.com
-- ⚡ Have a look at my <a href="https://gitconnected.com/victoriateixeira/resume" target="_blank">resume</a> and let's connect on <a href="https://www.linkedin.com/in/victoriafteixeira/?locale=en_US" target="_blank">LinkedIn</a>.
+- ⚡ Let's connect on <a href="https://www.linkedin.com/in/victoriafteixeira/?locale=en_US" target="_blank">LinkedIn</a>.
 
 <br />
 <br />
@@ -73,11 +73,6 @@
   <img src="https://img.shields.io/badge/-Sinon-1C1C1C?logo=Sinon&logoColor=8D6748" alt="Sinon" height="25px">
 </div>
 
-### Learning now:
-
-<p> 
-  <img src="https://img.shields.io/badge/-Python-1C1C1C?logo=python&logoColor=3776AB" alt="phyton" height="25px">   
-</p>
 <br>
 <p>
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victoriateixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
